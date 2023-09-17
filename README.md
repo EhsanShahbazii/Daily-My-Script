@@ -3,6 +3,7 @@ In my daily work, sometimes I need to be more efficient. That's why I get to wor
 
 ### get normal string (cast box problem)
 ```js
+// telegram channel: https://t.me/JustCoffeAndMe
 /* https://castbox.fm/creator/channels
 my input name of songs are not correct (maybe!)
 so i write very simple script and do it for me.
